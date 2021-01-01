@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsWpfBingMaps", "WinF
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9017B963-FD9A-410A-BA76-DC6A087D0AC1}"
 	ProjectSection(SolutionItems) = preProject
-		ReadeMe.md = ReadeMe.md
+		ReadMe.md = ReadMe.md
 		wpfmap.gif = wpfmap.gif
 	EndProjectSection
 EndProject
